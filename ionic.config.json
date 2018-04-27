@@ -1,0 +1,8 @@
+{
+  "name": "proweb-test",
+  "app_id": "fd335893",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
